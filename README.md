@@ -348,7 +348,6 @@ When using this repository, please cite the associated paper:
              and Gao, Xiaoshu},
   journal = {Engineering Applications of Artificial Intelligence},
   year    = {2026},
-  note    = {Please update the volume, article number, and DOI after final publication}
 }
 ```
 
